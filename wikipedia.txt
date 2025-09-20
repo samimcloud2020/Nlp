@@ -1,0 +1,13 @@
+An AI agent is a software system designed to act autonomously to achieve specific goals by perceiving its environment, making decisions, and taking actions to complete tasks. These agents use AI, particularly large language models (LLMs), to understand and respond to user requests, gather information, plan workflows, and interact with tools to solve complex problems. They demonstrate autonomy, learning, and adaptability, allowing them to improve their performance over time, and can even work with other agents in multi-agent systems to coordinate and perform more complex operations.  
+This video explains the fundamentals of AI agents, including their components and capabilities:Key characteristics of an AI agent:
+Perception: Agents gather information about their environment through sensors or input data. 
+Decision-making and Reasoning: They use logic, planning, and memory to decide on the best course of action to achieve a goal. 
+Action: Agents perform actions in their environment, whether that's a physical environment (like a robot vacuum) or a digital one (like a customer support system). 
+Autonomy: They operate independently, making decisions and carrying out tasks without constant human intervention. 
+Goal-Oriented: Agents are programmed with specific objectives and will strive to achieve them by performing the necessary tasks. 
+Learning and Adaptability: Agents can improve their performance over time by learning from their experiences and the consequences of their actions. 
+How they work:
+Perceive the environment: The agent receives information through various inputs, such as text, voice, or sensor data. 
+Understand and reason: Using LLMs and other AI techniques, the agent processes this information to understand the user's intent or the current state of the environment. 
+Plan and execute actions: Based on its goals and understanding, the agent formulates a plan and uses available tools to execute the necessary steps. 
+Adapt and learn: The agent may receive feedback on its actions, which it uses to refine its strategies and improve future performance. 
